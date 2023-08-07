@@ -12,6 +12,7 @@
 		ABD467BC2A814B9800327112 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABD467BB2A814B9800327112 /* Assets.xcassets */; };
 		ABD467BF2A814B9800327112 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABD467BE2A814B9800327112 /* Preview Assets.xcassets */; };
 		ABD467C82A814D7D00327112 /* DoTryCatchThrows.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABD467C72A814D7D00327112 /* DoTryCatchThrows.swift */; };
+		ABD467CA2A81704200327112 /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABD467C92A81704200327112 /* DownloadImageAsync.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		ABD467BB2A814B9800327112 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABD467BE2A814B9800327112 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ABD467C72A814D7D00327112 /* DoTryCatchThrows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoTryCatchThrows.swift; sourceTree = "<group>"; };
+		ABD467C92A81704200327112 /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,8 @@
 			isa = PBXGroup;
 			children = (
 				ABD467B62A814B9800327112 /* SwiftConcurrency */,
+				ABD467B92A814B9800327112 /* ContentView.swift */,
+				ABD467BB2A814B9800327112 /* Assets.xcassets */,
 				ABD467B52A814B9800327112 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,10 +58,9 @@
 			isa = PBXGroup;
 			children = (
 				ABD467B72A814B9800327112 /* SwiftConcurrencyApp.swift */,
-				ABD467B92A814B9800327112 /* ContentView.swift */,
-				ABD467BB2A814B9800327112 /* Assets.xcassets */,
-				ABD467BD2A814B9800327112 /* Preview Content */,
 				ABD467C72A814D7D00327112 /* DoTryCatchThrows.swift */,
+				ABD467BD2A814B9800327112 /* Preview Content */,
+				ABD467C92A81704200327112 /* DownloadImageAsync.swift */,
 			);
 			path = SwiftConcurrency;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ABD467CA2A81704200327112 /* DownloadImageAsync.swift in Sources */,
 				ABD467BA2A814B9800327112 /* ContentView.swift in Sources */,
 				ABD467B82A814B9800327112 /* SwiftConcurrencyApp.swift in Sources */,
 				ABD467C82A814D7D00327112 /* DoTryCatchThrows.swift in Sources */,
