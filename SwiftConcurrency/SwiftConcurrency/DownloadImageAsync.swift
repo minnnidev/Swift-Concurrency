@@ -78,11 +78,6 @@ struct DownloadImageAsync: View {
                     .frame(width: 250, height: 250)
             }
         }
-        .onAppear {
-            Task {
-                await viewModel.fetchImage()
-            }
-        }
     }
 }
 

@@ -11,8 +11,7 @@ import SwiftUI
 struct SwiftConcurrencyApp: App {
     var body: some Scene {
         WindowGroup {
-//            ContentView()
-            DownloadImageAsync()
+            TaskHomeView()
         }
     }
 }
