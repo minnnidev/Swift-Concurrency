@@ -91,9 +91,7 @@ struct AsyncLet: View {
 
                         let (image1, image2, image3, image4) = await (try fetchImage1, try fetchImage2, try fetchImage3, try fetchImage4) // one await keyword
 //                        let (image1, image2, image3, image4) = try await (fetchImage1, fetchImage2, fetchImage3, fetchImage4)
-//
-//                        // 왜 await 앞에 try 붙이면 안 됑?
-//
+
                         self.images.append(contentsOf: [image1, image2, image3, image4])
                     } catch {
 
