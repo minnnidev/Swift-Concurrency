@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AB96FE5D2A88FDC600382FD9 /* AsyncLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB96FE5C2A88FDC600382FD9 /* AsyncLet.swift */; };
 		ABD467B82A814B9800327112 /* SwiftConcurrencyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABD467B72A814B9800327112 /* SwiftConcurrencyApp.swift */; };
 		ABD467BA2A814B9800327112 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABD467B92A814B9800327112 /* ContentView.swift */; };
 		ABD467BC2A814B9800327112 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABD467BB2A814B9800327112 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AB96FE5C2A88FDC600382FD9 /* AsyncLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLet.swift; sourceTree = "<group>"; };
 		ABD467B42A814B9800327112 /* SwiftConcurrency.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrency.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABD467B72A814B9800327112 /* SwiftConcurrencyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftConcurrencyApp.swift; sourceTree = "<group>"; };
 		ABD467B92A814B9800327112 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				ABD467C92A81704200327112 /* DownloadImageAsync.swift */,
 				ABD467CB2A817A2000327112 /* AsyncAwait.swift */,
 				ABD467CD2A81878100327112 /* TaskPractice.swift */,
+				AB96FE5C2A88FDC600382FD9 /* AsyncLet.swift */,
 				ABD467B92A814B9800327112 /* ContentView.swift */,
 				ABD467BE2A814B9800327112 /* Preview Assets.xcassets */,
 				ABD467BD2A814B9800327112 /* Preview Content */,
@@ -151,6 +154,7 @@
 			files = (
 				ABD467CA2A81704200327112 /* DownloadImageAsync.swift in Sources */,
 				ABD467BA2A814B9800327112 /* ContentView.swift in Sources */,
+				AB96FE5D2A88FDC600382FD9 /* AsyncLet.swift in Sources */,
 				ABD467CC2A817A2000327112 /* AsyncAwait.swift in Sources */,
 				ABD467B82A814B9800327112 /* SwiftConcurrencyApp.swift in Sources */,
 				ABD467CE2A81878100327112 /* TaskPractice.swift in Sources */,
