@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AB0974412A8A776D00E4DAAA /* CheckedContinuation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB0974402A8A776D00E4DAAA /* CheckedContinuation.swift */; };
 		AB96FE5D2A88FDC600382FD9 /* AsyncLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB96FE5C2A88FDC600382FD9 /* AsyncLet.swift */; };
 		AB96FE7A2A8A2A9B00382FD9 /* TaskGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB96FE792A8A2A9B00382FD9 /* TaskGroup.swift */; };
 		ABD467B82A814B9800327112 /* SwiftConcurrencyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABD467B72A814B9800327112 /* SwiftConcurrencyApp.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AB0974402A8A776D00E4DAAA /* CheckedContinuation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckedContinuation.swift; sourceTree = "<group>"; };
 		AB96FE5C2A88FDC600382FD9 /* AsyncLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLet.swift; sourceTree = "<group>"; };
 		AB96FE792A8A2A9B00382FD9 /* TaskGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroup.swift; sourceTree = "<group>"; };
 		ABD467B42A814B9800327112 /* SwiftConcurrency.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrency.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -64,16 +66,17 @@
 		ABD467B62A814B9800327112 /* SwiftConcurrency */ = {
 			isa = PBXGroup;
 			children = (
-				ABD467B72A814B9800327112 /* SwiftConcurrencyApp.swift */,
 				ABD467C72A814D7D00327112 /* DoTryCatchThrows.swift */,
 				ABD467C92A81704200327112 /* DownloadImageAsync.swift */,
 				ABD467CB2A817A2000327112 /* AsyncAwait.swift */,
 				ABD467CD2A81878100327112 /* TaskPractice.swift */,
 				AB96FE5C2A88FDC600382FD9 /* AsyncLet.swift */,
 				AB96FE792A8A2A9B00382FD9 /* TaskGroup.swift */,
+				AB0974402A8A776D00E4DAAA /* CheckedContinuation.swift */,
 				ABD467B92A814B9800327112 /* ContentView.swift */,
 				ABD467BE2A814B9800327112 /* Preview Assets.xcassets */,
 				ABD467BD2A814B9800327112 /* Preview Content */,
+				ABD467B72A814B9800327112 /* SwiftConcurrencyApp.swift */,
 			);
 			path = SwiftConcurrency;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				ABD467CC2A817A2000327112 /* AsyncAwait.swift in Sources */,
 				ABD467B82A814B9800327112 /* SwiftConcurrencyApp.swift in Sources */,
 				ABD467CE2A81878100327112 /* TaskPractice.swift in Sources */,
+				AB0974412A8A776D00E4DAAA /* CheckedContinuation.swift in Sources */,
 				ABD467C82A814D7D00327112 /* DoTryCatchThrows.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
