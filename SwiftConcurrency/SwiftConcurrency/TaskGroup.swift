@@ -29,6 +29,8 @@ class TaskGroupDataManager {
 
     /*
      Task group 사용해 보기
+     withTaskGroup(of:returning:body:)
+     of: child task return type 
      child task는 당연히 fetchImage()일 것
     */
 //    func fetchImagesWithTaskGroup() async throws -> [UIImage] {
