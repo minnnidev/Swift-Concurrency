@@ -10,6 +10,7 @@
 		AB0974412A8A776D00E4DAAA /* CheckedContinuation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB0974402A8A776D00E4DAAA /* CheckedContinuation.swift */; };
 		AB96FE5D2A88FDC600382FD9 /* AsyncLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB96FE5C2A88FDC600382FD9 /* AsyncLet.swift */; };
 		AB96FE7A2A8A2A9B00382FD9 /* TaskGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB96FE792A8A2A9B00382FD9 /* TaskGroup.swift */; };
+		ABCCF54F2A9131AB00293B79 /* Actors.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABCCF54E2A9131AB00293B79 /* Actors.swift */; };
 		ABD467B82A814B9800327112 /* SwiftConcurrencyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABD467B72A814B9800327112 /* SwiftConcurrencyApp.swift */; };
 		ABD467BA2A814B9800327112 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABD467B92A814B9800327112 /* ContentView.swift */; };
 		ABD467BC2A814B9800327112 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABD467BB2A814B9800327112 /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 		AB0974402A8A776D00E4DAAA /* CheckedContinuation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckedContinuation.swift; sourceTree = "<group>"; };
 		AB96FE5C2A88FDC600382FD9 /* AsyncLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLet.swift; sourceTree = "<group>"; };
 		AB96FE792A8A2A9B00382FD9 /* TaskGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroup.swift; sourceTree = "<group>"; };
+		ABCCF54E2A9131AB00293B79 /* Actors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Actors.swift; sourceTree = "<group>"; };
 		ABD467B42A814B9800327112 /* SwiftConcurrency.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrency.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABD467B72A814B9800327112 /* SwiftConcurrencyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftConcurrencyApp.swift; sourceTree = "<group>"; };
 		ABD467B92A814B9800327112 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 				AB96FE5C2A88FDC600382FD9 /* AsyncLet.swift */,
 				AB96FE792A8A2A9B00382FD9 /* TaskGroup.swift */,
 				AB0974402A8A776D00E4DAAA /* CheckedContinuation.swift */,
+				ABCCF54E2A9131AB00293B79 /* Actors.swift */,
 				ABD467B92A814B9800327112 /* ContentView.swift */,
 				ABD467BE2A814B9800327112 /* Preview Assets.xcassets */,
 				ABD467BD2A814B9800327112 /* Preview Content */,
@@ -159,6 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ABD467CA2A81704200327112 /* DownloadImageAsync.swift in Sources */,
+				ABCCF54F2A9131AB00293B79 /* Actors.swift in Sources */,
 				ABD467BA2A814B9800327112 /* ContentView.swift in Sources */,
 				AB96FE7A2A8A2A9B00382FD9 /* TaskGroup.swift in Sources */,
 				AB96FE5D2A88FDC600382FD9 /* AsyncLet.swift in Sources */,
