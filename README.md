@@ -1,7 +1,7 @@
 # Swift-Concurrency
 
 🔗 [Learn Swift Concurrency (Async, Await, Actors)](https://www.youtube.com/watch?v=p6q1RmYUsNU&list=PLwvDm4Vfkdphr2Dl4sY4rS9PLzPdyi8PM) </br>
-Swiftful Thinking의 강의를 보고 공부한 `Swift Concurrency` 입니다. 
+Swiftful Thinking의 강의를 보고 공부한 `Swift Concurrency`를 정리한 repository입니다.
 
 </br>
 
