@@ -7,7 +7,7 @@ Swiftful Thinking의 강의를 보고 공부한 `Swift Concurrency`를 정리한
 
 |Title|Code|Note|
 |------|---|---|
-|Do, Try, Catch and Throws in Swift|[💻 code](https://github.com/minnnidev/Swift-Concurrency/blob/main/SwiftConcurrency/SwiftConcurrency/DoTryCatchThrows.swift)||
+|Do, Try, Catch and Throws in Swift|[💻 code](https://github.com/minnnidev/Swift-Concurrency/blob/main/SwiftConcurrency/SwiftConcurrency/DoTryCatchThrows.swift)| [🗒️ doc](https://picturesque-egret-903.notion.site/How-to-use-Do-Try-Catch-Throws-3911106ca0ff4f8084321ed992f4f325?pvs=4)|
 |Download Images with Async/Await, @escaping, Combine|[💻 code](https://github.com/minnnidev/Swift-Concurrency/blob/main/SwiftConcurrency/SwiftConcurrency/DownloadImageAsync.swift)||
 |Async/Await keywords in Swift|[💻 code](https://github.com/minnnidev/Swift-Concurrency/blob/main/SwiftConcurrency/SwiftConcurrency/AsyncAwait.swift)||
 |Task and .task|[💻 code](https://github.com/minnnidev/Swift-Concurrency/blob/main/SwiftConcurrency/SwiftConcurrency/TaskPractice.swift)||
